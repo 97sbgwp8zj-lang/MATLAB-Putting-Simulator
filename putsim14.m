@@ -2,10 +2,7 @@
 % Putting simulator:  this one aded ball skid to the roll simulator
 % ball starts at 0,0 right handed coordinates (x pos right y positive
 % toward hole)
-% Need to think more about stimp to rolling resitance and friction for
-% sliding: We get back correct roll distance but friction ....
-% Try to 
-% ****
+
 
 clear; clc;
 
