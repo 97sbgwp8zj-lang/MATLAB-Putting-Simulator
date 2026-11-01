@@ -7,7 +7,7 @@ plot shows the initial ball's initial skid (Balls skid at first because of backs
 # The Ball starts at (0,0). x = right (+), y = toward the hold (+). The distances are in meters, the speeds are in m/s and all angles are in degrees. 
 
 # Physics: 
-skid: putter loft gives the ball backspin, so it slides at first. Sliding friction slows it down and builds up topspin to allow the ball to start rolling. Once spin matches speed, it rolls with rolling resistance. 
+skid: when you putt, the putter pushes the ball forward without giving the ball the spin it needs to roll. Balls start to roll when the spin matches the forward speed. When the putter hits the ball it imparts backspin due to the putter's loft. 
 Slope: gravity pulls the ball sideways or up/down on the green. 
 Stimp: measure of how fast the green is. Rolling resistance is calibrated so a ball off a stimpmeter ramp rolls exactly the stump distance on a flat green. 
 
